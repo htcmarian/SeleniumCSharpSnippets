@@ -91,7 +91,7 @@ namespace EndToEndTests
 
         private static void AssertIsKendoGrid(IWebElement control)
         {
-            if (!string.IsNullOrEmpty(control.GetAttribute("kendo-grid")))
+            if (string.IsNullOrEmpty(control.GetAttribute("kendo-grid")))
             {
                 throw new InvalidOperationException("Element is not a kendo grid");
             }
