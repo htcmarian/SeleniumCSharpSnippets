@@ -1,6 +1,7 @@
 # SeleniumCSharpSnippets
 
 ### A few extension methods over IWebElement interface in Selenium for Kendo Grid
+### Useful for Automation Testing in Selenium C#
 
 #### **GetKendoGridData**
 - Maps KendoGrid data to a the grid ViewModel
