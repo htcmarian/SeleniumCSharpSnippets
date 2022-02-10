@@ -1,6 +1,6 @@
 # SeleniumCSharpSnippets
 
-### A few extension methods over IWebElement interface in Selenium for Kendo Grid
+### A few extension methods over IWebElement interface in Selenium for Angular.js Kendo Grid
 ### Useful for Automation Testing in Selenium C#
 
 #### **GetKendoGridData**
